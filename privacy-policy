@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - CLASSIC CNF App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        p, ul {
+            margin: 10px 0;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy for CLASSIC CNF App</h1>
+        <p><strong>Last Updated:</strong> February 26, 2025</p>
+
+        <h2>1. Introduction</h2>
+        <p>Welcome to <strong>CLASSIC CNF</strong>, a webview browser app designed exclusively for CLASSIC CNF customers to access their transaction history, invoice history, and other related data securely through our servers. This Privacy Policy outlines how we handle your information when you use our app.</p>
+
+        <h2>2. Information We Collect</h2>
+        <p>The CLASSIC CNF app <strong>does not collect, store, or process any personal data</strong> from users. The app is a webview browser that allows customers to access their transaction history, invoice history, and other basic data directly from our servers.</p>
+        <p>Since the app does not require any permissions from your device, we do not access or collect:</p>
+        <ul>
+            <li>Device information (e.g., model, operating system).</li>
+            <li>Location data.</li>
+            <li>Contact information.</li>
+            <li>Any other personal or sensitive data.</li>
+        </ul>
+
+        <h2>3. How We Use Information</h2>
+        <p>As the app does not collect any user data, there is <strong>no usage of personal information</strong>. All data accessed through the app is stored securely on our servers and is only accessible to authorized users with manual access provided by CLASSIC CNF.</p>
+
+        <h2>4. Data Security</h2>
+        <p>We take data security seriously. All data accessed through the CLASSIC CNF app is protected by secure server protocols, including encryption and access controls. However, since the app itself does not collect or store any data, there is <strong>no risk of data breach through the app</strong>.</p>
+
+        <h2>5. Third-Party Services</h2>
+        <p>The CLASSIC CNF app <strong>does not integrate with any third-party services</strong> that collect, store, or process user data. If this changes in the future, we will update this Privacy Policy and provide clear information about the third-party services and their data practices.</p>
+
+        <h2>6. User Rights</h2>
+        <p>While the CLASSIC CNF app does not collect or store personal data, users have rights under applicable data protection laws, such as:</p>
+        <ul>
+            <li>The right to access, correct, or delete their data.</li>
+            <li>The right to object to or restrict the processing of their data.</li>
+            <li>The right to data portability (where applicable).</li>
+        </ul>
+        <p>If you have concerns about data stored on our servers, please contact us at <a href="mailto:classicfashioncnf@gmail.com">classicfashioncnf@gmail.com</a>. We will respond to your request within a reasonable timeframe and in accordance with applicable laws.</p>
+
+        <h2>7. Children’s Privacy</h2>
+        <p>The CLASSIC CNF app is <strong>not intended for use by children under the age of 13</strong>. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information.</p>
+        <p>If you are a parent or guardian and believe your child has provided us with personal information, please contact us at <a href="mailto:classicfashioncnf@gmail.com">classicfashioncnf@gmail.com</a>.</p>
+
+        <h2>8. International Users</h2>
+        <p>The CLASSIC CNF app is available to users worldwide. If you are accessing the app from outside Malaysia, please note that your data may be transferred to, stored, and processed in Malaysia, where our servers are located. By using the app, you consent to this transfer and processing.</p>
+        <p>We comply with applicable data protection laws, including:</p>
+        <ul>
+            <li>The <strong>General Data Protection Regulation (GDPR)</strong> for users in the European Union.</li>
+            <li>The <strong>California Consumer Privacy Act (CCPA)</strong> for users in California, USA.</li>
+        </ul>
+
+        <h2>9. Data Retention</h2>
+        <p>Since the CLASSIC CNF app does not collect or store personal data, there is <strong>no data retention policy for the app itself</strong>. However, data accessed through the app (e.g., transaction history) is retained on our servers for <strong>12 months</strong> to provide users with access to their records. After this period, data may be archived or deleted in accordance with our internal data retention policies.</p>
+
+        <h2>10. Changes to This Privacy Policy</h2>
+        <p>We may update this Privacy Policy from time to time to reflect changes in our practices, legal requirements, or regulatory guidelines. Any changes will be reflected in the <strong>“Last Updated” date</strong> at the top of this policy. We encourage you to review this policy periodically to stay informed about how we are protecting your information.</p>
+        <p>If we make significant changes to this policy, we will notify users through the app or via email (if applicable).</p>
+
+        <h2>11. Compliance with Google Play Policies</h2>
+        <p>The CLASSIC CNF app complies with <strong>Google Play’s Developer Program Policies</strong> and <strong>User Data policies</strong>. Specifically:</p>
+        <ul>
+            <li>We do not collect, store, or share any personal or sensitive user data.</li>
+            <li>We do not use deceptive or misleading practices to collect user data.</li>
+            <li>We do not integrate with third-party services that collect user data without proper disclosure.</li>
+        </ul>
+        <p>If you believe our app violates Google Play’s policies, please contact us at <a href="mailto:classicfashioncnf@gmail.com">classicfashioncnf@gmail.com</a>.</p>
+
+        <h2>12. Disclaimer for External Links</h2>
+        <p>The CLASSIC CNF app may contain links to external websites or services. We are <strong>not responsible for the privacy practices or content</strong> of these third-party services. We encourage users to review the privacy policies of any external sites they visit.</p>
+
+        <h2>13. Contact Us</h2>
+        <p>If you have any questions or concerns about this Privacy Policy or the CLASSIC CNF app, please contact us at:</p>
+        <ul>
+            <li><strong>Business Address:</strong> 35B, Classic Fashion, Lorong Merbau, Off Jalan Kenanga, Kualalumpur, 55200, Malaysia</li>
+            <li><strong>Phone:</strong> +601111145111</li>
+            <li><strong>Email:</strong> <a href="mailto:classicfashioncnf@gmail.com">classicfashioncnf@gmail.com</a></li>
+        </ul>
+
+        <h2>14. Governing Law</h2>
+        <p>This Privacy Policy is governed by the laws of <strong>Malaysia</strong>. Any disputes arising from the use of the CLASSIC CNF app will be subject to the exclusive jurisdiction of the courts of Malaysia.</p>
+
+        <h2>15. Acknowledgment</h2>
+        <p>By using the CLASSIC CNF app, you acknowledge that you have <strong>read, understood, and agreed</strong> to this Privacy Policy.</p>
+
+        <p><strong>Thank you for using CLASSIC CNF!</strong></p>
+    </div>
+</body>
+</html>
